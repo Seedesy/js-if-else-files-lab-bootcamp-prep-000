@@ -11,3 +11,6 @@ if (name === "Joe") {
 } else {
   console.log("Expected name to be Susan")
 }
+if (height === 74){
+  console.log("The height is correct")
+}
